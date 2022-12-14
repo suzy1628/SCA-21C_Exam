@@ -1,0 +1,1 @@
+Git Revert - it used to cancel changes. The "revert" command helps you undo an existing commit.It's important to understand that it does not delete any data in this process: instead, Git will create new changes with the opposite effect - and thereby undo the specified old commit
