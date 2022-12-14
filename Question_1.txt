@@ -1,0 +1,1 @@
+Git grep - he runs through the whole project in search of this word, and gives out where it can be.git grep "string to search" -> Will search the string in the complete code base.
